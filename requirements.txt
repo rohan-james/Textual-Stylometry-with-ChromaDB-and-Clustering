@@ -1,0 +1,11 @@
+chromadb
+sentence-transformers
+scikit-learn
+hdbscan
+numpy
+pandas
+requests
+beautifulsoup4
+matplotlib
+seaborn
+umap-learn

@@ -1,0 +1,13 @@
+venv/
+.venv/ 
+
+data/raw_texts/
+
+chroma_db_data/
+
+__pycache__/
+*.pyc
+
+.DS_Store 
+
+.vscode/
